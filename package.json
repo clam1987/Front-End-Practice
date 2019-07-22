@@ -1,0 +1,24 @@
+{
+  "name": "Front-End-Practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "popper.js": "^1.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clam1987/Front-End-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clam1987/Front-End-Practice/issues"
+  },
+  "homepage": "https://github.com/clam1987/Front-End-Practice#readme"
+}
