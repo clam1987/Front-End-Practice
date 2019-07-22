@@ -1,0 +1,28 @@
+/* Top Page Before Nav */
+#topPageBar {
+    background-color: #ff6200;
+}
+
+#callCol {
+    color: #da4900;
+    padding: initial;
+    padding-left: 195px
+} 
+
+#numCol {
+    color: #ffffff;
+    padding: initial;
+    padding-left: 5px   
+}
+
+#login{ 
+    color: #be3600;
+    padding: initial;
+    padding-left: 249px;
+}
+
+#signUp {
+    color: #ffffff;
+    padding: initial;
+    padding-left: 14px;
+}
