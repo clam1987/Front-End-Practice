@@ -26,3 +26,21 @@
     padding: initial;
     padding-left: 14px;
 }
+
+/* NavBar */
+
+.navbar {
+    background-color: #f8f8f8;
+}
+
+.your {
+    color: #313131;
+    /* padding: initial;
+    padding-left: 0px; */
+}
+
+.logo {
+    color: #ff6200;
+    /* padding: initial;
+    padding-left: 0px; */
+}
